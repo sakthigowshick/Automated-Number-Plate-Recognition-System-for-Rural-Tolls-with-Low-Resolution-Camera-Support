@@ -49,7 +49,7 @@ OCR results may be incorrect for blurry, damaged, or low-resolution plates. Furt
 
 ## Team
 - Selvaganapathy K
-- Sakthigowsick S
+- Sakthi Gowshick S
 - Manoj K
 - Vignesh S
 
