@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.streamlit/secrets.toml
+*.log
+runs/
+yolo_dataset/
+google_images/
+video_images/
+State-wise_OLX/
+*.cache
+anpr_result.jpg
